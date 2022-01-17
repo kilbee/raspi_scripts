@@ -7,8 +7,8 @@ by step count, or by specified angle
 clockwise (values greater than 0) or counter-clockwise (values below 0)
 
 turn_sequence([30,-40,45,-30,45,10,-40,20,-60,40]) 		# example how to use sequence small turns in one go
-turn_motor(steps = 10)									# example how to use function, but using step value
-turn_motor(angle = -60)									# example how to use function, but using angle value
+turn_motor(steps = 10)																# example how to use function, but using step value
+turn_motor(angle = -60)																# example how to use function, but using angle value
 """
 
 
