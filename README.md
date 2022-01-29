@@ -10,4 +10,4 @@ used in DIY turntable:
 
 threshold_erode_blur.py
 ---
-Simple Opencv script with basic operations [![(erode, dilate, threshold)](https://docs.opencv.org/4.x/db/df6/tutorial_erosion_dilatation.html) to key out dim, contrast backgrounds
+Simple Opencv script with basic operations [![(erode, dilate, threshold)](https://docs.opencv.org/3.4/opening.png)](https://docs.opencv.org/4.x/db/df6/tutorial_erosion_dilatation.html) to key out dim, contrast backgrounds
