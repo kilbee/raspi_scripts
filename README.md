@@ -8,3 +8,6 @@ used in DIY turntable:
 
 [![turntable video](https://img.youtube.com/vi/yKjAy369okU/0.jpg)](https://www.youtube.com/watch?v=yKjAy369okU)
 
+threshold_erode_blur.py
+---
+Simple Opencv script with basic operations [![(erode, dilate, threshold)](https://docs.opencv.org/4.x/db/df6/tutorial_erosion_dilatation.html) to key out dim, contrast backgrounds
